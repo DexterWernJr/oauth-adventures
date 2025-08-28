@@ -23,7 +23,7 @@ Alice lands in a cloud of smoke. The Caterpillar is perched on a mushroom, puffi
 
 He hands her a scroll:  
 
-```sh
+    ```sh
 GET /authorize?
   response_type=code
   &clientid=aliceapp
